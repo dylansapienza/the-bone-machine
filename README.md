@@ -71,33 +71,5 @@ Using the power of RAG (Retrieval Augmented Generation) and the poetic chaos of 
 - 🎨 **Styling**: TailwindCSS
 - ✨ **Magic**: Tom Waits' Lyrics
 
-## 🎵 Example Interactions
-
-**You**: "How should I make important life decisions?"
-
-**Bone Machine**: "Well, the sky's still blue and the ocean's still wine-dark, and you better know which road you're on, cause in the house of earth and stone, every choice is a gamble with loaded dice. Don't trust the rain, it's always got an angle."
-
-## 🎪 Contributing
-
-Got some beautiful madness to add? Feel free to:
-
-1. Fork the carnival
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🎭 Acknowledgments
-
-- Tom Waits, for creating a universe of beautiful chaos in lyrics
-- The open-source community, for making magic possible
-- Coffee and midnight inspiration, for fueling development
-
----
-
 _"Now the moon's rising, ain't no time to lose
 Time to listen to the whispers of The Bone Machine..."_ 🌙
